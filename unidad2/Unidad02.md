@@ -1,5 +1,5 @@
 # 🎓💡 guías de laboratorio completadas y corregidas de la unidad (desde la APE 06 hasta la APE 10).
-- **[Regresar a la portada](index.md)**
+- **[Regresar a la portada](Distribucion-y-Probabilidad/index.md)**
 
 ## [APE06](APE06_GrupoC.ipynb)
 
