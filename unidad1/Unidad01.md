@@ -1,4 +1,6 @@
 # 🎓💡 guías de laboratorio completadas y corregidas de la unidad 1 (desde la APE 00 hasta la APE 05).
+## [Regresar a la portada](../index.md)
+
 ## [APE00](APE00_GrupoC.ipynb)
 
 ## [APE01](APE01_GrupoC.ipynb)
