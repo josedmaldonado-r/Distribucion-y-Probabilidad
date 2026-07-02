@@ -38,6 +38,6 @@ Asimismo, la IA fue utilizada para corregir errores gramaticales y optimizar la 
 
 #### 💻 **Contenido**
 
-[Unidad 1](unidad1/Unidad01)
+[Unidad 1](unidad1/Unidad01.md)
 
-[Unidad 2](unidad2/Unidad02)
+[Unidad 2](unidad2/Unidad02.md)
