@@ -42,4 +42,4 @@ Asimismo, la IA fue utilizada para corregir errores gramaticales y optimizar la 
 
 <br>
 
-[Unidad 2](unidad1/Unidad02)
+[Unidad 2](unidad2/Unidad02)
