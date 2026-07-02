@@ -2,39 +2,39 @@
 
 <div align="center">
   
-# 📘 Portafolio Digital de Aprendizaje – Teoría de la Programación 📘
+# 📘 Portafolio Digital Sistematizado – Teoría de la Distribucion y Probabilidad 📘
   
 # **Universidad Nacional de Loja**
 
 ## 💻 **Carrera de Computación**
 <br>
 
-### 🧠 **Asignatura:** Teoría de la Programación  
-### 📆 **Ciclo:** Primer Ciclo  
-### 🗓️ **Período Académico:** Octubre 2025 – Febrero 2026  
+### 🧠 **Asignatura:** Teoría de la Distribución y Probabilidad
+### 📆 **Ciclo:** Segundo Ciclo  
+### 🗓️ **Período Académico:** Abril – Julio 2026  
 <br>
 
-### 👩‍🏫 **Docente:** Ing. Lissette López  
+### 👨‍🔧 **Docente:** Ing. Cristan Narvaez  
 ### 🧑‍🎓 **Estudiante:** José Daniel Maldonado Rodríguez  
 <br>
 
-## 🌟 *Portafolio Digital de Aprendizaje* 🌟
+## 🌟 *Portafolio Digital Sistematizado* 🌟
 
 </div>
 
 
 #### 💡 **Descripción del Portafolio**
 
-Este portafolio digital tiene como objetivo recopilar y evidenciar los aprendizajes, proyectos y ejercicios desarrollados durante la asignatura **Teoría de la Programación**.  
-Aquí se incluyen resúmenes teóricos, prácticas, programas elaborados en C y reflexiones personales sobre el proceso de aprendizaje.
+Este portafolio tiene como objetvo la produccion de actividades de la unidad 1 y 2 de la asignatura **Teoría de la Distribución y Probabilidad**.  
+Aquí se incluyen guias de laboratorio, evaluacion sumativa y la autoevaluacion.
 
 #### 🤖 **Declaración de Uso de IA Generativa**
 Para la elaboración de este portafolio en GitHub, se empleó la inteligencia artificial ChatGPT como herramienta de apoyo. Gracias a esta tecnología, fue posible organizar, redactar y etiquetar adecuadamente el contenido utilizando el lenguaje de formato Markdown, lo que contribuyó a una mejor presentación visual y estructural de los temas.
 
 Asimismo, la IA fue utilizada para corregir errores gramaticales y optimizar la redacción, garantizando una comunicación más clara y coherente.
 
-Este proceso permitió crear un portafolio más claro, dinámico y profesional, demostrando el uso responsable y educativo de la inteligencia artificial en el ámbito académico.
 
 ---
 
 #### 💻 **Contenido**
+[Unidad 1]()
