@@ -1,4 +1,5 @@
 # Bitácora de Aprendizaje — Unidad de Inferencia Estadística
+### [Volver a la portada](index.md)
 ### Pruebas de Hipótesis Unimuestrales aplicadas a datos ENEMDU (Región de Loja)
 
 ## 1. Aprendizajes consolidados
