@@ -45,3 +45,5 @@ Asimismo, la IA fue utilizada para corregir errores gramaticales y optimizar la 
 [Autoevaluacion](Autoevaluacion.md)
 
 [Evaluacion Sumativa](APE09_APE10_Pruebas_Hipotesis_Loja.ipynb)
+
+[Dataset Regional](enemdu_consumidor_2026_01.csv)
